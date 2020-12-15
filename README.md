@@ -1,2 +1,2 @@
 # ExamenPachoJoseServidor
- examen app dist
+ examen
